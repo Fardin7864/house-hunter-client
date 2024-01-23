@@ -5,14 +5,14 @@
 
 Log In House Owner Dashboard:
 ============================
-Mehedi Hasan
+Fardin Hasan
 Owner Email: admin@mail.com
 Owner Password: Admin123!
 
 ```
 ### About the Project
 
-This project is a Marn STACK House Sell Or Rent Related website with a clean and modern design that includes various components, such as a responsive navbar, a slider, modern footer, a contact form, and more. It was developed using Reactjs, TailwindCSS, css and also many other react npm packages making it easy to customize and adapt to different needs.
+This project is a MERN STACK House Sell Or Rent Related website with a clean and modern design that includes various components, such as a responsive navbar, a slider, modern footer, a contact form, and more. It was developed using Reactjs, TailwindCSS, css and also many other react npm packages making it easy to customize and adapt to different needs.
 
 
 ### Project Extra Work Or Features
