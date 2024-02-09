@@ -62,15 +62,4 @@ Owner Password: Admin123!
 
 
 
-### Task-2 Javascript Problem Solved Answer:
-
-```js
-function isPalindrome(str) {
-  const formattedStr = str.replace(/[^a-zA-Z0-9]/g, '').toLowerCase();
-  return formattedStr === formattedStr.split('').reverse().join('');
-}
-
-console.log(isPalindrome("level"))//true
-console.log(isPalindrome("hello"))//false
-console.log(isPalindrome("A man, a plan, a canal: Panama"))//true
 ```
